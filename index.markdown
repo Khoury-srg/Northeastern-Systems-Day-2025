@@ -6,7 +6,7 @@ description:
 ---
 
 
-**Northeastern Systems Day** has become a tradition for bringing together researchers actively engaged in computer systems research at Northeastern University.
+**Northeastern Systems Day** has become a tradition for bringing together researchers actively engaged in computer systems research. The event provides a platform to share ongoing work, exchange ideas, and foster collaborations across the systems community.
 
 - **Date:** December 12, 2025
 - **Location:** Cabral Center located at the <a href="https://maps.app.goo.gl/QF4ZpN6rFNpjVABF8" style="text-decoration: none;">John D. O’Bryant African-American Institute</a> at Northeastern University in Boston, Massachusetts. 40 Leon Street, Boston, MA 02115
