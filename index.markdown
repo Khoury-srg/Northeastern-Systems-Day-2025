@@ -53,7 +53,55 @@ and Management and troubleshooting of complex systems._
  -->
 
 ## Schedule
-TBD
+
+| **8:30 am - 9:00 am --- Breakfast** |
+
+| **9:00 am - 9:10 am --- Opening remarks & logistics** |
+
+| 9:10 am - 10:05 am --- MLSys |
+|:--------------------------|
+| Hydra: Workload Characterization of Large Language Models for Edge Computing Platforms |
+| LaunchControl: Charactering Startup Overhead in Large-Scale LLM Training |
+| Active Client Selection in Federated Trajectory Prediction with Uncertainty-Awareness and Heterogeneous Complexity |
+|-----------------------------------------------------------------------------|
+
+| **10:05 am - 10:30 am --- Coffee break** |
+
+| 10:30 am - 11:10 am --- Database |
+|:--------------------------|
+| RAGged Results: Diagnosing Vector Index Selection in Retrieval-Augmented Generation |
+| Aeris Filter: A Strongly Adaptive and Expandable Range Filter |
+|-----------------------------------------------------------------------------|
+
+| **11:10 am - 11:30 am --- Coffee break** |
+
+| **11:30 am - 12:30 pm --- Keynote 1 (Cheng Tan)** |
+
+| **12:30 pm - 1:30 pm --- Lunch** |
+
+| **1:30 pm - 2:00 pm --- Group activity** |
+
+| **2:00 pm - 3:00 pm --- Keynote 2 (Nikos Vasilakis)** |
+
+| **3:00 pm - 3:20 pm --- Coffee break** |
+
+| 3:20 pm - 4:05 pm --- HPC and cloud systems |
+|:--------------------------|
+| Split-Process: Enabling Practical Transparent Checkpointing in HPC |
+| Speculative Revalidation on the CDN |
+| Towards an Exascale Build System in Spack |
+|-----------------------------------------------------------------------------|
+
+| **4:05 pm - 4:25 pm --- Coffee break** |
+
+| 4:25 pm - 5:15 pm --- Security and correctness |
+|:--------------------------|
+| Smart Plugs: The Unseen Home Trojan |
+| Compositional Model-Driven Verification of Weakly Consistent Distributed Systems |
+| DeepDebug: Serializable Replay of Bugs Found Deep in a Multithreaded Execution |
+|-----------------------------------------------------------------------------|
+
+| **5:15 pm - 5:20 pm --- Closing remarks** |
 
 
 <!-- ## Code of Conduct
