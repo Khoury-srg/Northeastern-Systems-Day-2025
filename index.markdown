@@ -54,54 +54,54 @@ and Management and troubleshooting of complex systems._
 
 ## Schedule
 
-| **8:30-9:00 --- Breakfast** |
+| **8:30 AM – 9:00 AM · Breakfast** |
 
-| **9:00-9:10 --- Opening remarks & logistics** |
+| **9:00 AM – 9:10 AM · Opening remarks & logistics** |
 
-| 9:10-10:05 --- MLSys |
+| **9:10 AM – 10:05 AM · MLSys** |
 |:--------------------------|
-| 9:10-9:35: Hydra: Workload Characterization of Large Language Models for Edge Computing Platforms |
-| 9:35-9:50: LaunchControl: Charactering Startup Overhead in Large-Scale LLM Training |
-| 9:50-10:05: Active Client Selection in Federated Trajectory Prediction with Uncertainty-Awareness and Heterogeneous Complexity |
+| **9:10 – 9:35** · Hydra: Workload Characterization of Large Language Models for Edge Computing Platforms |
+| **9:35 – 9:50** · LaunchControl: Charactering Startup Overhead in Large-Scale LLM Training |
+| **9:50 – 10:05** · Active Client Selection in Federated Trajectory Prediction with Uncertainty-Awareness and Heterogeneous Complexity |
 |-----------------------------------------------------------------------------|
 
-| **10:05-10:30 --- Coffee break** |
+| **10:05 AM – 10:30 AM · Coffee break** |
 
-| 10:30-11:10 --- Database |
+| **10:30 AM – 11:10 AM · Database** |
 |:--------------------------|
-| 10:30-10:50: RAGged Results: Diagnosing Vector Index Selection in Retrieval-Augmented Generation |
-| 10:50-11:10: Aeris Filter: A Strongly Adaptive and Expandable Range Filter |
+| **10:30 – 10:50** · RAGged Results: Diagnosing Vector Index Selection in Retrieval-Augmented Generation |
+| **10:50 – 11:10** · Aeris Filter: A Strongly Adaptive and Expandable Range Filter |
 |-----------------------------------------------------------------------------|
 
-| **11:10-11:30 --- Coffee break** |
+| **11:10 AM – 11:30 AM · Coffee break** |
 
-| **11:30-12:30 --- Keynote 1 (<a href="https://naizhengtan.github.io/" style="text-decoration: none;">Cheng Tan</a>): Towards Faithful LLM Systems: Three Early Examples** |
+| **11:30 AM – 12:30 PM · Keynote 1 (<a href="https://naizhengtan.github.io/" style="text-decoration: none;">Cheng Tan</a>): Towards Faithful LLM Systems: Three Early Examples** |
 
-| **12:30-1:30 --- Lunch** |
+| **12:30 PM – 1:30 PM · Lunch** |
 
-| **1:30-2:00 --- Group activity** |
+| **1:30 PM – 2:00 PM · Group activity** |
 
-| **2:00-3:00 --- Keynote 2 (Nikos Vasilakis): TBD** |
+| **2:00 PM – 3:00 PM · Keynote 2 (Nikos Vasilakis): TBD** |
 
-| **3:00-3:20 --- Coffee break** |
+| **3:00 PM – 3:20 PM · Coffee break** |
 
-| 3:20-4:05 --- HPC and cloud systems |
+| **3:20 PM – 4:05 PM · HPC and cloud systems** |
 |:--------------------------|
-| 3:20-3:40: Split-Process: Enabling Practical Transparent Checkpointing in HPC |
-| 3:40-3:55: Speculative Revalidation on the CDN |
-| 3:55-4:05: Towards an Exascale Build System in Spack |
+| **3:20 – 3:40** · Split-Process: Enabling Practical Transparent Checkpointing in HPC |
+| **3:40 – 3:55** · Speculative Revalidation on the CDN |
+| **3:55 – 4:05** · Towards an Exascale Build System in Spack |
 |-----------------------------------------------------------------------------|
 
-| **4:05-4:25 --- Coffee break** |
+| **4:05 PM – 4:25 PM · Coffee break** |
 
-| 4:25-5:15 --- Security and correctness |
+| **4:25 PM – 5:15 PM · Security and correctness** |
 |:--------------------------|
-| 4:25-4:40: Smart Plugs: The Unseen Home Trojan |
-| 4:40-5:00: Compositional Model-Driven Verification of Weakly Consistent Distributed Systems |
-| 5:00-5:15: DeepDebug: Serializable Replay of Bugs Found Deep in a Multithreaded Execution |
+| **4:25 – 4:40** · Smart Plugs: The Unseen Home Trojan |
+| **4:40 – 5:00** · Compositional Model-Driven Verification of Weakly Consistent Distributed Systems |
+| **5:00 – 5:15** · DeepDebug: Serializable Replay of Bugs Found Deep in a Multithreaded Execution |
 |-----------------------------------------------------------------------------|
 
-| **5:15-5:20 --- Closing remarks** |
+| **5:15 PM – 5:20 PM · Closing remarks** |
 
 
 <!-- ## Code of Conduct
