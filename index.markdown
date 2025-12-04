@@ -54,54 +54,54 @@ and Management and troubleshooting of complex systems._
 
 ## Schedule
 
-| **8:30 am - 9:00 am --- Breakfast** |
+| **8:30-9:00 --- Breakfast** |
 
-| **9:00 am - 9:10 am --- Opening remarks & logistics** |
+| **9:00-9:10 --- Opening remarks & logistics** |
 
-| 9:10 am - 10:05 am --- MLSys |
+| 9:10-10:05 --- MLSys |
 |:--------------------------|
-| Hydra: Workload Characterization of Large Language Models for Edge Computing Platforms |
-| LaunchControl: Charactering Startup Overhead in Large-Scale LLM Training |
-| Active Client Selection in Federated Trajectory Prediction with Uncertainty-Awareness and Heterogeneous Complexity |
+| 9:10-9:35: Hydra: Workload Characterization of Large Language Models for Edge Computing Platforms |
+| 9:35-9:50: LaunchControl: Charactering Startup Overhead in Large-Scale LLM Training |
+| 9:50-10:05: Active Client Selection in Federated Trajectory Prediction with Uncertainty-Awareness and Heterogeneous Complexity |
 |-----------------------------------------------------------------------------|
 
-| **10:05 am - 10:30 am --- Coffee break** |
+| **10:05-10:30 --- Coffee break** |
 
-| 10:30 am - 11:10 am --- Database |
+| 10:30-11:10 --- Database |
 |:--------------------------|
-| RAGged Results: Diagnosing Vector Index Selection in Retrieval-Augmented Generation |
-| Aeris Filter: A Strongly Adaptive and Expandable Range Filter |
+| 10:30-10:50: RAGged Results: Diagnosing Vector Index Selection in Retrieval-Augmented Generation |
+| 10:50-11:10: Aeris Filter: A Strongly Adaptive and Expandable Range Filter |
 |-----------------------------------------------------------------------------|
 
-| **11:10 am - 11:30 am --- Coffee break** |
+| **11:10-11:30 --- Coffee break** |
 
-| **11:30 am - 12:30 pm --- Keynote 1 (Cheng Tan)** |
+| **11:30-12:30 --- Keynote 1 (<a href="https://naizhengtan.github.io/" style="text-decoration: none;">Cheng Tan</a>): Towards Faithful LLM Systems: Three Early Examples** |
 
-| **12:30 pm - 1:30 pm --- Lunch** |
+| **12:30-1:30 --- Lunch** |
 
-| **1:30 pm - 2:00 pm --- Group activity** |
+| **1:30-2:00 --- Group activity** |
 
-| **2:00 pm - 3:00 pm --- Keynote 2 (Nikos Vasilakis)** |
+| **2:00-3:00 --- Keynote 2 (Nikos Vasilakis): TBD** |
 
-| **3:00 pm - 3:20 pm --- Coffee break** |
+| **3:00-3:20 --- Coffee break** |
 
-| 3:20 pm - 4:05 pm --- HPC and cloud systems |
+| 3:20-4:05 --- HPC and cloud systems |
 |:--------------------------|
-| Split-Process: Enabling Practical Transparent Checkpointing in HPC |
-| Speculative Revalidation on the CDN |
-| Towards an Exascale Build System in Spack |
+| 3:20-3:40: Split-Process: Enabling Practical Transparent Checkpointing in HPC |
+| 3:40-3:55: Speculative Revalidation on the CDN |
+| 3:55-4:05: Towards an Exascale Build System in Spack |
 |-----------------------------------------------------------------------------|
 
-| **4:05 pm - 4:25 pm --- Coffee break** |
+| **4:05-4:25 --- Coffee break** |
 
-| 4:25 pm - 5:15 pm --- Security and correctness |
+| 4:25-5:15 --- Security and correctness |
 |:--------------------------|
-| Smart Plugs: The Unseen Home Trojan |
-| Compositional Model-Driven Verification of Weakly Consistent Distributed Systems |
-| DeepDebug: Serializable Replay of Bugs Found Deep in a Multithreaded Execution |
+| 4:25-4:40: Smart Plugs: The Unseen Home Trojan |
+| 4:40-5:00: Compositional Model-Driven Verification of Weakly Consistent Distributed Systems |
+| 5:00-5:15: DeepDebug: Serializable Replay of Bugs Found Deep in a Multithreaded Execution |
 |-----------------------------------------------------------------------------|
 
-| **5:15 pm - 5:20 pm --- Closing remarks** |
+| **5:15-5:20 --- Closing remarks** |
 
 
 <!-- ## Code of Conduct
@@ -111,4 +111,4 @@ and Management and troubleshooting of complex systems._
 
 
 ## Contact
-Please send any questions to <a href="mailto:c.tan@northeastern.edu" style="text-decoration: none;">Cheng Tan</a> and <a href="mailto:j.shin@northeastern.edu" style="text-decoration: none;">Ji-Yong Shin</a>.
+Please send any questions to <a href="https://naizhengtan.github.io/" style="text-decoration: none;">Cheng Tan</a>  and <a href="mailto:j.shin@northeastern.edu" style="text-decoration: none;">Ji-Yong Shin</a>.
