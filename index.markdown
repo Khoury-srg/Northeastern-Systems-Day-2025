@@ -148,5 +148,9 @@ In this talk, I present a vision of building faithful LLM systems that align wit
 ## Sponsors -->
 
 
+## Organizers
+
+**Program Committee Chair:** Yibo(Brent) Zhao
+
 ## Contact
 Please send any questions to <a href="https://naizhengtan.github.io/" style="text-decoration: none;">Cheng Tan</a>  and <a href="mailto:j.shin@northeastern.edu" style="text-decoration: none;">Ji-Yong Shin</a>.
