@@ -75,13 +75,51 @@ and Management and troubleshooting of complex systems._
 
 | **11:10 AM – 11:30 AM · Coffee break** |
 
-| **11:30 AM – 12:30 PM · Keynote 1 (<a href="https://naizhengtan.github.io/" style="text-decoration: none;">Cheng Tan</a>): Towards Faithful LLM Systems: Three Early Examples** |
+<details style="margin-top: 10px;">
+<summary style="cursor: pointer; display: block; padding: 10px 12px; border: 1px solid #e6e6e6; border-radius: 10px; background: #fafafa; font-weight: 700; color: #222; list-style: none; margin: 0;">
+11:30 AM – 12:30 PM · Keynote 1 (<a href="https://naizhengtan.github.io/" style="text-decoration: none;">Cheng Tan</a>): Towards Faithful LLM Systems: Three Early Examples
+<span style="display: block; font-size: 0.92em; font-weight: 500; color: #0066cc; margin-top: 2px;">See details</span>
+</summary>
+
+<div markdown="1" style="margin-top: -5px; border: 1px solid #e6e6e6; border-radius: 8px; padding: 10px 12px; background: #fafbfc;">
+
+**Title:** Towards Faithful LLM Systems: Three Early Examples
+
+**Speaker:** <a href="https://naizhengtan.github.io/" style="text-decoration: none;">Cheng Tan</a> (Northeastern University)
+
+**Abstract:** Large Language Models (LLMs) are becoming central to modern computing, which elevates the importance of the underlying systems that support their training and serving. Unlike traditional applications, LLMs are inherently stochastic and nuanced, making their behavior difficult to specify, constrain, or control. This complexity obscures misbehavior in the underlying systems, making it harder to verify, detect, or attribute faults. As a result, ensuring the faithfulness of LLM systems---whether they behave as intended or expected---has become both a pressing and technically challenging problem.
+
+In this talk, I present a vision of building faithful LLM systems that align with user intent---securely and verifiably. I will discuss three initial efforts toward this goal: a jailbreak oracle, a near-zero-overhead GPU information flow tracking, and a verifiable distributed training system.
+
+**Bio:** Cheng Tan is an assistant professor at Khoury College of Computer Sciences at Northeastern University. His research interests are in computer systems, verifiable systems, and ML systems. He is a recipient of the SOSP'17 Best Paper Award, ASPLOS'23 Distinguished Artifact Award, MSRA StarTrack Scholar, and NSF CAREER Award.
+
+</div>
+
+</details>
 
 | **12:30 PM – 1:30 PM · Lunch** |
 
 | **1:30 PM – 2:00 PM · Group activity** |
 
-| **2:00 PM – 3:00 PM · Keynote 2 (<a href="https://nikos.vasilak.is/" style="text-decoration: none;">Nikos Vasilakis</a>): TBD** |
+<details style="margin-top: 10px;">
+<summary style="cursor: pointer; display: block; padding: 10px 12px; border: 1px solid #e6e6e6; border-radius: 10px; background: #fafafa; font-weight: 700; color: #222; list-style: none; margin: 0;">
+2:00 PM – 3:00 PM · Keynote 2 (<a href="https://nikos.vasilak.is/" style="text-decoration: none;">Nikos Vasilakis</a>): Milner, McIlroy, and <strong><em>You</em></strong> Go to a Party
+<span style="display: block; font-size: 0.92em; font-weight: 500; color: #0066cc; margin-top: 2px;">See details</span>
+</summary>
+
+<div markdown="1" style="margin-top: -5px; border: 1px solid #e6e6e6; border-radius: 8px; padding: 10px 12px; background: #fafbfc;">
+
+**Title:** Milner, McIlroy, and *You* Go to a Party
+
+**Speaker:** <a href="https://nikos.vasilak.is/" style="text-decoration: none;">Nikos Vasilakis</a> (Brown University)
+
+**Abstract:** Language-agnostic composition environments—e.g., OSes, Shells, microservices, serverless—always held the promise of significant benefits, including in developer effort, financial costs, and component specialization. Unfortunately, these environments hinder the performance optimizations, strong correctness, and security guarantees that are typical of language-aware, semantics-first environments. In this talk, I will discuss how recent developments across fields allow overcoming these challenges and enable new opportunities for exciting systems research that has the potential for widespread impact.
+
+**Bio:** Nikos Vasilakis is an Assistant Professor of Computer Science at Brown University, where he leads the Atlas group, and an Affiliate with Brown's Data Science Institute. His research includes software systems, programming languages, and computer security—and has been recognized by a Google Junior Faculty Award, an Amazon Research Award, and multiple best-paper awards. The current focus of his research is on automatically improving the performance, security, and reliability of modern and widely used systems.
+
+</div>
+
+</details>
 
 | **3:00 PM – 3:20 PM · Coffee break** |
 
