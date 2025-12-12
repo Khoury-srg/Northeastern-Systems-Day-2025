@@ -58,7 +58,7 @@ and Management and troubleshooting of complex systems._
 
 | **9:00 AM – 9:10 AM · Opening remarks & logistics** |
 
-| **9:10 AM – 10:05 AM · MLSys** |
+| **9:10 AM – 10:05 AM · MLSys** · <span style="font-weight: normal;">Session Chair: <a href="https://isaackhor.com/" style="text-decoration: none;">Isaac Khor</a></span> |
 |:--------------------------|
 | **9:10 – 9:35** · Hydra: Workload Characterization of Large Language Models for Edge Computing Platforms (<a href="https://amirtaherin.github.io/" style="text-decoration: none;">Amir Taherin</a>) |
 | **9:35 – 9:50** · LaunchControl: Charactering Startup Overhead in Large-Scale LLM Training (Rui Li) |
@@ -67,9 +67,9 @@ and Management and troubleshooting of complex systems._
 
 | **10:05 AM – 10:30 AM · Coffee break** |
 
-| **10:30 AM – 11:10 AM · Database** |
+| **10:30 AM – 11:10 AM · Database** · <span style="font-weight: normal;">Session Chair: <a href="https://liruivah.github.io/" style="text-decoration: none;">Rui Li</a></span> |
 |:--------------------------|
-| **10:30 – 10:50** · RAGged Results: Diagnosing Vector Index Selection in Retrieval-Augmented Generation (<a href="https://khaiwang.github.io/about/" style="text-decoration: none;">Zikai Wang</a>) |
+| **10:30 – 10:50** · RAGged Results: Can LLMs Replace Time-Tested System Policies? Perhaps (Yibo(Brent) Zhao) |
 | **10:50 – 11:10** · Aeris Filter: A Strongly Adaptive and Expandable Range Filter (Yuvaraj) |
 |-----------------------------------------------------------------------------|
 
@@ -123,7 +123,7 @@ In this talk, I present a vision of building faithful LLM systems that align wit
 
 | **3:00 PM – 3:20 PM · Coffee break** |
 
-| **3:20 PM – 4:05 PM · HPC and cloud systems** |
+| **3:20 PM – 4:05 PM · HPC and cloud systems** · <span style="font-weight: normal;">Session Chair: <a href="https://bryantcurto.sites.northeastern.edu/" style="text-decoration: none;">Bryant Curto</a></span> |
 |:--------------------------|
 | **3:20 – 3:40** · Split-Process: Enabling Practical Transparent Checkpointing in HPC (<a href="https://www.khoury.northeastern.edu/home/yaoxu/" style="text-decoration: none;">Yao Xu</a>) |
 | **3:40 – 3:55** · Speculative Revalidation on the CDN (<a href="https://isaackhor.com/" style="text-decoration: none;">Isaac Khor</a>) |
@@ -132,7 +132,7 @@ In this talk, I present a vision of building faithful LLM systems that align wit
 
 | **4:05 PM – 4:25 PM · Coffee break** |
 
-| **4:25 PM – 5:15 PM · Security and correctness** |
+| **4:25 PM – 5:15 PM · Security and correctness** · <span style="font-weight: normal;">Session Chair: <a href="https://khaiwang.github.io/about/" style="text-decoration: none;">Zikai Wang</a></span> |
 |:--------------------------|
 | **4:25 – 4:40** · Smart Plugs: The Unseen Home Trojan (xenia dragon) |
 | **4:40 – 5:00** · Compositional Model-Driven Verification of Weakly Consistent Distributed Systems (<a href="https://bryantcurto.sites.northeastern.edu/" style="text-decoration: none;">Bryant Curto</a>) |
@@ -150,7 +150,7 @@ In this talk, I present a vision of building faithful LLM systems that align wit
 
 ## Organizers
 
-**Program Committee Chair:** Yibo(Brent) Zhao
+**Program Chair:** Yibo(Brent) Zhao
 
 ## Contact
 Please send any questions to <a href="https://naizhengtan.github.io/" style="text-decoration: none;">Cheng Tan</a>  and <a href="mailto:j.shin@northeastern.edu" style="text-decoration: none;">Ji-Yong Shin</a>.
