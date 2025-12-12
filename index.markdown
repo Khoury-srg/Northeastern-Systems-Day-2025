@@ -69,7 +69,7 @@ and Management and troubleshooting of complex systems._
 
 | **10:30 AM – 11:10 AM · Database** · <span style="font-weight: normal;">Session Chair: <a href="https://liruivah.github.io/" style="text-decoration: none;">Rui Li</a></span> |
 |:--------------------------|
-| **10:30 – 10:50** · RAGged Results: Can LLMs Replace Time-Tested System Policies? Perhaps (Yibo(Brent) Zhao) |
+| **10:30 – 10:50** · Can LLMs Replace Time-Tested System Policies? Perhaps (Yibo(Brent) Zhao) |
 | **10:50 – 11:10** · Aeris Filter: A Strongly Adaptive and Expandable Range Filter (Yuvaraj) |
 |-----------------------------------------------------------------------------|
 
