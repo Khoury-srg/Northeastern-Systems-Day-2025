@@ -62,7 +62,7 @@ and Management and troubleshooting of complex systems._
 |:--------------------------|
 | **9:10 – 9:35** · Hydra: Workload Characterization of Large Language Models for Edge Computing Platforms (<a href="https://amirtaherin.github.io/" style="text-decoration: none;">Amir Taherin</a>) |
 | **9:35 – 9:50** · LaunchControl: Charactering Startup Overhead in Large-Scale LLM Training (Rui Li) |
-| **9:50 – 10:05** · Active Client Selection in Federated Trajectory Prediction with Uncertainty-Awareness and Heterogeneous Complexity (<a href="https://ymingxie.github.io/" style="text-decoration: none;">Yiming Xie</a>) |
+| **9:50 – 10:05** · Active Client Selection in Federated Trajectory Prediction with Uncertainty-Awareness and Heterogeneous Complexity (Yiming Xie) |
 |-----------------------------------------------------------------------------|
 
 | **10:05 AM – 10:30 AM · Coffee break** |
